@@ -1,0 +1,198 @@
+[
+  {
+    "chatId": "187406938538016:48@lid",
+    "from": "7439218929912@lid",
+    "id": "00EBACFBF5D274B3514266B40A7BC3B3",
+    "date": "2026-05-23T21:11:30.000Z",
+    "offline": false,
+    "status": "accept"
+  }
+]
+
+[
+  {
+    "chatId": "187406938538016:48@lid",
+    "from": "7439218929912@lid",
+    "id": "005A4D6B06AE8279D2D72F294C923D15",
+    "date": "2026-05-23T21:12:58.000Z",
+    "offline": true,
+    "status": "reject"
+  }
+]
+
+[
+  {
+    "chatId": "7439218929912@lid",
+    "from": "7439218929912@lid",
+    "id": "005A4D6B06AE8279D2D72F294C923D15",
+    "date": "2026-05-23T21:12:58.000Z",
+    "offline": true,
+    "status": "terminate"
+  }
+]
+
+[
+  {
+    "chatId": "7439218929912@lid",
+    "from": "7439218929912@lid",
+    "callerPn": "5521965605687@s.whatsapp.net",
+    "id": "005A4D6B06AE8279D2D72F294C923D15",
+    "date": "2026-05-23T21:12:52.000Z",
+    "offline": true,
+    "status": "offer",
+    "isVideo": false,
+    "isGroup": false
+  }
+]
+
+[
+  {
+    "chatId": "7439218929912@lid",
+    "from": "7439218929912@lid",
+    "callerPn": "5521965605687@s.whatsapp.net",
+    "id": "00531010627BE5944F81491A4523BBC4",
+    "date": "2026-05-23T21:13:17.000Z",
+    "offline": false,
+    "status": "offer",
+    "isVideo": false,
+    "isGroup": false
+  }
+]
+
+[
+  {
+    "chatId": "7439218929912@lid",
+    "from": "7439218929912@lid",
+    "callerPn": "5521965605687@s.whatsapp.net",
+    "id": "00531010627BE5944F81491A4523BBC4",
+    "date": "2026-05-23T21:13:18.000Z",
+    "offline": false,
+    "status": "relaylatency",
+    "isVideo": false,
+    "isGroup": false
+  }
+]
+
+[
+  {
+    "chatId": "7439218929912@lid",
+    "from": "7439218929912@lid",
+    "callerPn": "5521965605687@s.whatsapp.net",
+    "id": "00531010627BE5944F81491A4523BBC4",
+    "date": "2026-05-23T21:13:18.000Z",
+    "offline": false,
+    "status": "relaylatency",
+    "isVideo": false,
+    "isGroup": false
+  }
+]
+
+[
+  {
+    "chatId": "7439218929912@lid",
+    "from": "7439218929912@lid",
+    "callerPn": "5521965605687@s.whatsapp.net",
+    "id": "00531010627BE5944F81491A4523BBC4",
+    "date": "2026-05-23T21:13:18.000Z",
+    "offline": false,
+    "status": "relaylatency",
+    "isVideo": false,
+    "isGroup": false
+  }
+]
+
+[
+  {
+    "chatId": "7439218929912@lid",
+    "from": "7439218929912@lid",
+    "callerPn": "5521965605687@s.whatsapp.net",
+    "id": "00531010627BE5944F81491A4523BBC4",
+    "date": "2026-05-23T21:14:18.000Z",
+    "offline": false,
+    "status": "terminate",
+    "isVideo": false,
+    "isGroup": false
+  }
+]
+
+[
+  {
+    "chatId": "7439218929912@lid",
+    "from": "7439218929912@lid",
+    "callerPn": "5521965605687@s.whatsapp.net",
+    "id": "0050B7E7BA083032756FC6E6D3474981",
+    "date": "2026-05-23T21:16:56.000Z",
+    "offline": false,
+    "status": "offer",
+    "isVideo": false,
+    "isGroup": false
+  }
+]
+
+[
+  {
+    "chatId": "7439218929912@lid",
+    "from": "7439218929912@lid",
+    "callerPn": "5521965605687@s.whatsapp.net",
+    "id": "0050B7E7BA083032756FC6E6D3474981",
+    "date": "2026-05-23T21:16:57.000Z",
+    "offline": false,
+    "status": "relaylatency",
+    "isVideo": false,
+    "isGroup": false
+  }
+]
+
+[
+  {
+    "chatId": "7439218929912@lid",
+    "from": "7439218929912@lid",
+    "callerPn": "5521965605687@s.whatsapp.net",
+    "id": "0050B7E7BA083032756FC6E6D3474981",
+    "date": "2026-05-23T21:16:57.000Z",
+    "offline": false,
+    "status": "relaylatency",
+    "isVideo": false,
+    "isGroup": false
+  }
+]
+
+[
+  {
+    "chatId": "7439218929912@lid",
+    "from": "7439218929912@lid",
+    "callerPn": "5521965605687@s.whatsapp.net",
+    "id": "0050B7E7BA083032756FC6E6D3474981",
+    "date": "2026-05-23T21:16:57.000Z",
+    "offline": false,
+    "status": "relaylatency",
+    "isVideo": false,
+    "isGroup": false
+  }
+]
+
+[
+  {
+    "chatId": "7439218929912@lid",
+    "from": "7439218929912@lid",
+    "callerPn": "5521965605687@s.whatsapp.net",
+    "id": "0050B7E7BA083032756FC6E6D3474981",
+    "date": "2026-05-23T21:17:00.000Z",
+    "offline": false,
+    "status": "terminate",
+    "isVideo": false,
+    "isGroup": false
+  }
+]
+
+[
+  {
+    "chatId": "187406938538016@lid",
+    "from": "7439218929912@lid",
+    "id": "0050B7E7BA083032756FC6E6D3474981",
+    "date": "2026-05-23T21:17:00.000Z",
+    "offline": false,
+    "status": "accept"
+  }
+]
+
